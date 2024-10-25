@@ -2,6 +2,7 @@ branch file 2
 haider
  update 3 
 
+\w+:.*
 
 To help us track this issue down, please share a support bundle from the GitHub Enterprise appliance. The quickest way to do so is to [connect via SSH](https://help.github.com/enterprise/admin/guides/installation/administrative-shell-ssh-access/) and run this command:
 
